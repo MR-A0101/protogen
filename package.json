@@ -1,0 +1,24 @@
+{
+  "name": "protogen",
+  "version": "1.0.0",
+  "description": "This is my Blockchain Encryption!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MR-A0101/protogen.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MR-A0101/protogen/issues"
+  },
+  "homepage": "https://github.com/MR-A0101/protogen#readme",
+  "devDependencies": {
+    "@types/node": "^16.11.9",
+    "typescript": "^4.5.2"
+  }
+}
